@@ -1,1 +1,14 @@
-hello
+AI Journal Entry
+Francis Okeagu
+fokeagu@terpmail.umd.edu
+Section 0202
+
+Weeek 1
+This week I was applying to an internship and hit a roadblock.
+I came across a question that I did not understand and I knew that google wouldn't be of good help.
+I decided to go on chatGPT and asked it "whats this asking me"
+It asked me "Can you show me the exact question or instructions you’re looking at? That way I can break it down 
+and explain what it’s asking you to do."
+https://chatgpt.com/share/68c429d1-ce7c-8007-aa82-6751448e641d
+
+This was my only use of AI this week.
