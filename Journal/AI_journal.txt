@@ -19,4 +19,8 @@ https://chatgpt.com/share/68c72e1d-276c-8007-9e29-0dbca6d4a57d
 
 Week 2
 
-This week I 
+Similar to last week, I used AI for some quick explanation and examples for our week two exercises
+This week I used AI less though so I'm glad to be getting a small hang of this Python thing.
+
+https://chatgpt.com/share/68d03654-806c-8007-b92f-e7b122dde9de
+
