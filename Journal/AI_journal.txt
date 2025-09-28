@@ -24,3 +24,9 @@ This week I used AI less though so I'm glad to be getting a small hang of this P
 
 https://chatgpt.com/share/68d03654-806c-8007-b92f-e7b122dde9de
 
+Week 3
+
+This week my AI use was minimal as i used it to debug the first question of week 3 exercise.
+It was a really silly mistake because I didn't add the indent properly and was so confused why my code wasn't working.
+
+https://chatgpt.com/share/68d95f43-b188-8007-b000-223aaec7f02e
