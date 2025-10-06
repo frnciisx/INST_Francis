@@ -30,3 +30,11 @@ This week my AI use was minimal as i used it to debug the first question of week
 It was a really silly mistake because I didn't add the indent properly and was so confused why my code wasn't working.
 
 https://chatgpt.com/share/68d95f43-b188-8007-b000-223aaec7f02e
+
+Week 4
+I used Copilot AI to get suggestions for one of my assignments.
+The reason for my AI use was because I didn't want to go through the hurdles of searching directly on google.
+I asked the AI to give me suggestions of an information need I might have.
+I didn't end up using any of these but it gave me an idea of what to do.
+
+https://copilot.microsoft.com/shares/1XCexrEfHhoRMk2J7FMus
