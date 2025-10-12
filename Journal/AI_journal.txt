@@ -38,3 +38,11 @@ I asked the AI to give me suggestions of an information need I might have.
 I didn't end up using any of these but it gave me an idea of what to do.
 
 https://copilot.microsoft.com/shares/1XCexrEfHhoRMk2J7FMus
+
+Week 5
+Just like the previous weeks, I tried to keep my AI use brief. 
+I found out that my submission for an INST 201 assignment was incorrect. 
+I had too many redundant pictures of ICTs on campus so I asked chatGPT for examples.
+I asked it for examples of ICTs and then asked it for physical examples so I can know what I'm looking for when I walk around campus.
+
+https://chatgpt.com/share/68ebac95-2a44-8007-98b0-419c6cd9db6d
