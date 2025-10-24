@@ -46,3 +46,10 @@ I had too many redundant pictures of ICTs on campus so I asked chatGPT for examp
 I asked it for examples of ICTs and then asked it for physical examples so I can know what I'm looking for when I walk around campus.
 
 https://chatgpt.com/share/68ebac95-2a44-8007-98b0-419c6cd9db6d
+
+Week 6
+This week I worked on my field work assignment for INST 201 but the instructions weren't clear.
+At first I tried using google to understand the assignment better but as usual, there was an information overload, meaning that there were different examples for one search.
+I decided to use chatGPT to search for it and it worked out perfectly; I should've done that first.
+
+https://chatgpt.com/share/68fb9411-ff70-8007-8ed6-b195820e747c
